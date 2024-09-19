@@ -1,3 +1,1 @@
-# CHATBOT
-SAIBABA
-Chatbot made in all by Yeah MURUGA
+This is a chatbot to recommend movies based on your taste
